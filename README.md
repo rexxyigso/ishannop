@@ -9,7 +9,7 @@ function info(readme , self) {
    self.name = 'Rexxy';
    self.knowas = 'Arafat';
    self.location  = 'Bangladesh';
-   self.age = '18';
+   self.age = 'Secret';
    self.projects = ['Discord Bots' , 'Website' , 'Community Manager'];
    self.system = 'windows';
 };
