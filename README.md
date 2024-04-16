@@ -6,9 +6,9 @@ const { name , knowas , age , projects , skills , location ,   system }  = self
 
 
 function info(readme , self) {
-   self.name = 'Rexxy';
+   self.name = 'Seek';
    self.knowas = 'Arafat';
-   self.location  = 'Bangladesh';
+   self.location  = 'Sweden';
    self.age = 'Secret';
    self.projects = ['Discord Bots' , 'Website' , 'Community Manager'];
    self.system = 'windows';
